@@ -1,5 +1,4 @@
 # Book-Management-App
-=========================
 
 Book management app created using python containing 2 scripts:
 * frontend script - using Tkinter module
